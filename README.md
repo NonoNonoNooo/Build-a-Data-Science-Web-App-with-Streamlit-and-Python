@@ -4,7 +4,7 @@
 
 Welcome to this hands-on project on building your first data science web app with the Streamlit library in Python. By the end of this project, you are going to be comfortable with using Python and Streamlit to build beautiful and interactive web apps with zero web development experience! We are going to load, explore, visualize and interact with data, and generate dashboards in less than 100 lines of Python code!
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 # Summary
 
