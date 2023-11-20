@@ -6,8 +6,6 @@ Welcome to this hands-on project on building your first data science web app wit
 
 Prior experience with writing simple Python scripts and using pandas for data manipulation is recommended.
 
-Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.
-
 
 # Summary
 
@@ -25,5 +23,5 @@ Data filtering and interactive tables
 Displaying filtered data on a 3D interactive map
 Continue working with the 3D interactive map
 Graphs and bar graphs
-Select data using drop-down lists"
+Select data using drop-down lists
 
